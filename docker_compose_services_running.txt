@@ -1,0 +1,6 @@
+backend
+celery_beat
+celery_worker
+nginx
+postgres
+redis

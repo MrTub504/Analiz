@@ -1,0 +1,78 @@
+[
+    {
+        "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
+        "kind":  "funding",
+        "exchange":  "ASTERFINANCE",
+        "symbol_input":  "KITEUSDT",
+        "symbol_candidates":  [
+                                  "KITEUSDT",
+                                  "KITE-USDT",
+                                  "KITE_USDT",
+                                  "KITE/USDT"
+                              ],
+        "attempted_keys":  [
+                               "ex:funding:ASTERFINANCE:KITEUSDT"
+                           ],
+        "hit":  true,
+        "hit_key":  "ex:funding:ASTERFINANCE:KITEUSDT",
+        "hit_source":  "realtime_primary",
+        "ts_ms":  1773377291453
+    },
+    {
+        "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
+        "kind":  "funding",
+        "exchange":  "COINEX",
+        "symbol_input":  "KITEUSDT",
+        "symbol_candidates":  [
+                                  "KITEUSDT",
+                                  "KITE-USDT",
+                                  "KITE_USDT",
+                                  "KITE/USDT"
+                              ],
+        "attempted_keys":  [
+                               "ex:funding:COINEX:KITEUSDT"
+                           ],
+        "hit":  true,
+        "hit_key":  "ex:funding:COINEX:KITEUSDT",
+        "hit_source":  "realtime_primary",
+        "ts_ms":  1773377291453
+    },
+    {
+        "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
+        "kind":  "funding",
+        "exchange":  "ASTERFINANCE",
+        "symbol_input":  "KITEUSDT",
+        "symbol_candidates":  [
+                                  "KITEUSDT",
+                                  "KITE-USDT",
+                                  "KITE_USDT",
+                                  "KITE/USDT"
+                              ],
+        "attempted_keys":  [
+                               "ex:funding:ASTERFINANCE:KITEUSDT"
+                           ],
+        "hit":  true,
+        "hit_key":  "ex:funding:ASTERFINANCE:KITEUSDT",
+        "hit_source":  "realtime_primary",
+        "ts_ms":  1773377292104
+    },
+    {
+        "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
+        "kind":  "funding",
+        "exchange":  "COINEX",
+        "symbol_input":  "KITEUSDT",
+        "symbol_candidates":  [
+                                  "KITEUSDT",
+                                  "KITE-USDT",
+                                  "KITE_USDT",
+                                  "KITE/USDT"
+                              ],
+        "attempted_keys":  [
+                               "ex:funding:COINEX:KITEUSDT"
+                           ],
+        "hit":  true,
+        "hit_key":  "ex:funding:COINEX:KITEUSDT",
+        "hit_source":  "realtime_primary",
+        "ts_ms":  1773377292105
+    }
+]

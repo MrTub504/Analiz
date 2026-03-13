@@ -1,0 +1,14 @@
+{
+    "diagnostics_rows_count":  1,
+    "redis_client_module":  "redis.asyncio.client",
+    "redis_client_class":  "Redis",
+    "redis_db":  0,
+    "redis_host":  "redis",
+    "redis_port":  6379,
+    "raw_reads":  {
+                      "ex:prices:ASTERFINANCE:ASTERFINANCE_PERP_KITE_USDT":  null,
+                      "ex:orderbook:ASTERFINANCE:ASTERFINANCE_PERP_KITE_USDT":  null,
+                      "ex:prices:COINEX:COINEX_PERP_KITE_USDT":  null,
+                      "ex:orderbook:COINEX:COINEX_PERP_KITE_USDT":  null
+                  }
+}

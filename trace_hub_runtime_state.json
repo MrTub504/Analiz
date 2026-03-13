@@ -1,0 +1,209 @@
+{
+    "request_resolved_hub":  {
+                                 "present":  true,
+                                 "hub_id":  138516776988224,
+                                 "hub_type":  "ExchangeStreamHub",
+                                 "hub_module":  "app.core.realtime.hub",
+                                 "hub_running":  true,
+                                 "hub_started_at":  1773374257386,
+                                 "hub_plugins_count":  4,
+                                 "hub_plugin_ids":  [
+                                                        "asterfinance",
+                                                        "bitmart",
+                                                        "coinex",
+                                                        "hbdm"
+                                                    ],
+                                 "hub_tasks_count":  12,
+                                 "hub_task_names":  [
+                                                        "Task-11",
+                                                        "Task-12",
+                                                        "Task-13",
+                                                        "Task-14",
+                                                        "Task-15",
+                                                        "Task-16",
+                                                        "Task-17",
+                                                        "Task-18",
+                                                        "Task-19",
+                                                        "Task-20",
+                                                        "Task-21",
+                                                        "Task-22"
+                                                    ],
+                                 "plugin_loops_count":  4,
+                                 "enabled_exchanges_count":  4,
+                                 "enabled_exchanges_raw":  [
+                                                               "# type=str",
+                                                               "default=РїСѓСЃС‚Рѕ",
+                                                               "РЅР°Р·РЅР°С‡РµРЅРёРµ: С„Р»Р°Рі РІРєР»СЋС‡РµРЅРёСЏ/РІС‹РєР»СЋС‡РµРЅРёСЏ С„СѓРЅРєС†РёРѕРЅР°Р»Р°. РЈРїСЂР°РІР»СЏРµС‚ РїР°СЂР°РјРµС‚СЂРѕРј: exchanges enabled"
+                                                           ],
+                                 "enabled_exchanges_normalized":  [
+                                                                      "asterfinance",
+                                                                      "bitmart",
+                                                                      "coinex",
+                                                                      "hbdm"
+                                                                  ],
+                                 "plugin_registry_source":  "app.plugins.registry.load_enabled_plugins",
+                                 "load_enabled_plugins_result_count":  4,
+                                 "load_enabled_plugins_result_ids":  [
+                                                                         "asterfinance",
+                                                                         "bitmart",
+                                                                         "coinex",
+                                                                         "hbdm"
+                                                                     ],
+                                 "required_registry_state":  {
+                                                                 "funding":  [
+                                                                                 "AVNTUSDT",
+                                                                                 "ENSOUSDT",
+                                                                                 "GRTUSDT",
+                                                                                 "JSTUSDT",
+                                                                                 "KITEUSDT",
+                                                                                 "PIPPINUSDT",
+                                                                                 "RATSUSDT",
+                                                                                 "RIVERUSDT",
+                                                                                 "TURBOUSDT",
+                                                                                 "ZILUSDT"
+                                                                             ],
+                                                                 "prices":  [
+                                                                                "AVNTUSDT",
+                                                                                "ENSOUSDT",
+                                                                                "GRTUSDT",
+                                                                                "JSTUSDT",
+                                                                                "KITEUSDT",
+                                                                                "PIPPINUSDT",
+                                                                                "RATSUSDT",
+                                                                                "RIVERUSDT",
+                                                                                "TURBOUSDT",
+                                                                                "ZILUSDT"
+                                                                            ],
+                                                                 "orderbook":  [
+                                                                                   "AVNTUSDT",
+                                                                                   "ENSOUSDT",
+                                                                                   "GRTUSDT",
+                                                                                   "JSTUSDT",
+                                                                                   "KITEUSDT",
+                                                                                   "PIPPINUSDT",
+                                                                                   "RATSUSDT",
+                                                                                   "RIVERUSDT",
+                                                                                   "TURBOUSDT",
+                                                                                   "ZILUSDT"
+                                                                               ]
+                                                             },
+                                 "last_required_update":  {
+                                                              "funding":  {
+                                                                              "symbols_count":  10,
+                                                                              "ts_ms":  1773377286651
+                                                                          },
+                                                              "prices":  {
+                                                                             "symbols_count":  10,
+                                                                             "ts_ms":  1773377286653
+                                                                         },
+                                                              "orderbook":  {
+                                                                                "symbols_count":  10,
+                                                                                "ts_ms":  1773377286655
+                                                                            }
+                                                          }
+                             },
+    "startup_hub":  {
+                        "present":  true,
+                        "hub_id":  138516776988224,
+                        "hub_type":  "ExchangeStreamHub",
+                        "hub_module":  "app.core.realtime.hub",
+                        "hub_running":  true,
+                        "hub_started_at":  1773374257386,
+                        "hub_plugins_count":  4,
+                        "hub_plugin_ids":  [
+                                               "asterfinance",
+                                               "bitmart",
+                                               "coinex",
+                                               "hbdm"
+                                           ],
+                        "hub_tasks_count":  12,
+                        "hub_task_names":  [
+                                               "Task-11",
+                                               "Task-12",
+                                               "Task-13",
+                                               "Task-14",
+                                               "Task-15",
+                                               "Task-16",
+                                               "Task-17",
+                                               "Task-18",
+                                               "Task-19",
+                                               "Task-20",
+                                               "Task-21",
+                                               "Task-22"
+                                           ],
+                        "plugin_loops_count":  4,
+                        "enabled_exchanges_count":  4,
+                        "enabled_exchanges_raw":  [
+                                                      "# type=str",
+                                                      "default=РїСѓСЃС‚Рѕ",
+                                                      "РЅР°Р·РЅР°С‡РµРЅРёРµ: С„Р»Р°Рі РІРєР»СЋС‡РµРЅРёСЏ/РІС‹РєР»СЋС‡РµРЅРёСЏ С„СѓРЅРєС†РёРѕРЅР°Р»Р°. РЈРїСЂР°РІР»СЏРµС‚ РїР°СЂР°РјРµС‚СЂРѕРј: exchanges enabled"
+                                                  ],
+                        "enabled_exchanges_normalized":  [
+                                                             "asterfinance",
+                                                             "bitmart",
+                                                             "coinex",
+                                                             "hbdm"
+                                                         ],
+                        "plugin_registry_source":  "app.plugins.registry.load_enabled_plugins",
+                        "load_enabled_plugins_result_count":  4,
+                        "load_enabled_plugins_result_ids":  [
+                                                                "asterfinance",
+                                                                "bitmart",
+                                                                "coinex",
+                                                                "hbdm"
+                                                            ],
+                        "required_registry_state":  {
+                                                        "funding":  [
+                                                                        "AVNTUSDT",
+                                                                        "ENSOUSDT",
+                                                                        "GRTUSDT",
+                                                                        "JSTUSDT",
+                                                                        "KITEUSDT",
+                                                                        "PIPPINUSDT",
+                                                                        "RATSUSDT",
+                                                                        "RIVERUSDT",
+                                                                        "TURBOUSDT",
+                                                                        "ZILUSDT"
+                                                                    ],
+                                                        "prices":  [
+                                                                       "AVNTUSDT",
+                                                                       "ENSOUSDT",
+                                                                       "GRTUSDT",
+                                                                       "JSTUSDT",
+                                                                       "KITEUSDT",
+                                                                       "PIPPINUSDT",
+                                                                       "RATSUSDT",
+                                                                       "RIVERUSDT",
+                                                                       "TURBOUSDT",
+                                                                       "ZILUSDT"
+                                                                   ],
+                                                        "orderbook":  [
+                                                                          "AVNTUSDT",
+                                                                          "ENSOUSDT",
+                                                                          "GRTUSDT",
+                                                                          "JSTUSDT",
+                                                                          "KITEUSDT",
+                                                                          "PIPPINUSDT",
+                                                                          "RATSUSDT",
+                                                                          "RIVERUSDT",
+                                                                          "TURBOUSDT",
+                                                                          "ZILUSDT"
+                                                                      ]
+                                                    },
+                        "last_required_update":  {
+                                                     "funding":  {
+                                                                     "symbols_count":  10,
+                                                                     "ts_ms":  1773377286651
+                                                                 },
+                                                     "prices":  {
+                                                                    "symbols_count":  10,
+                                                                    "ts_ms":  1773377286653
+                                                                },
+                                                     "orderbook":  {
+                                                                       "symbols_count":  10,
+                                                                       "ts_ms":  1773377286655
+                                                                   }
+                                                 }
+                    },
+    "same_object":  true
+}

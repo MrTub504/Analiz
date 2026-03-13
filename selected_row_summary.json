@@ -1,0 +1,13 @@
+{
+    "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
+    "exchangeBuy":  "ASTERFINANCE",
+    "exchangeSell":  "COINEX",
+    "symbol":  "KITE-USDT",
+    "coin":  "",
+    "buy_symbol_id":  "KITEUSDT",
+    "sell_symbol_id":  "KITEUSDT",
+    "left_coinapi_symbol_id":  "ASTERFINANCE_PERP_KITE_USDT",
+    "right_coinapi_symbol_id":  "COINEX_PERP_KITE_USDT",
+    "ws_symbol_id_buy":  "",
+    "ws_symbol_id_sell":  ""
+}

@@ -1,0 +1,214 @@
+[
+    {
+        "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
+        "kind":  "prices",
+        "exchange":  "ASTERFINANCE",
+        "exchange_candidate":  "ASTERFINANCE",
+        "symbol_candidates":  [
+                                  "KITEUSDT",
+                                  "KITE-USDT",
+                                  "KITE_USDT",
+                                  "KITE/USDT"
+                              ],
+        "symbol_candidate":  "KITEUSDT",
+        "redis_key":  "ex:prices:ASTERFINANCE:KITEUSDT",
+        "hit":  true,
+        "stale":  true,
+        "age_ms":  10448,
+        "payload_fragment":  {
+                                 "updated_at_ms":  1773377281657,
+                                 "bid":  0.2375,
+                                 "ask":  0.23761,
+                                 "mark":  0.23732025,
+                                 "index":  0.23958697,
+                                 "last":  0.23732025
+                             },
+        "ts_ms":  1773377292105
+    },
+    {
+        "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
+        "kind":  "prices",
+        "exchange":  "COINEX",
+        "exchange_candidate":  "COINEX",
+        "symbol_candidates":  [
+                                  "KITEUSDT",
+                                  "KITE-USDT",
+                                  "KITE_USDT",
+                                  "KITE/USDT"
+                              ],
+        "symbol_candidate":  "KITEUSDT",
+        "redis_key":  "ex:prices:COINEX:KITEUSDT",
+        "hit":  false,
+        "stale":  true,
+        "age_ms":  null,
+        "payload_fragment":  null,
+        "ts_ms":  1773377292105
+    },
+    {
+        "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
+        "kind":  "prices",
+        "exchange":  "COINEX",
+        "exchange_candidate":  "COINEX",
+        "symbol_candidates":  [
+                                  "KITEUSDT",
+                                  "KITE-USDT",
+                                  "KITE_USDT",
+                                  "KITE/USDT"
+                              ],
+        "symbol_candidate":  "KITE-USDT",
+        "redis_key":  "ex:prices:COINEX:KITE-USDT",
+        "hit":  false,
+        "stale":  true,
+        "age_ms":  null,
+        "payload_fragment":  null,
+        "ts_ms":  1773377292105
+    },
+    {
+        "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
+        "kind":  "prices",
+        "exchange":  "COINEX",
+        "exchange_candidate":  "COINEX",
+        "symbol_candidates":  [
+                                  "KITEUSDT",
+                                  "KITE-USDT",
+                                  "KITE_USDT",
+                                  "KITE/USDT"
+                              ],
+        "symbol_candidate":  "KITE_USDT",
+        "redis_key":  "ex:prices:COINEX:KITE_USDT",
+        "hit":  false,
+        "stale":  true,
+        "age_ms":  null,
+        "payload_fragment":  null,
+        "ts_ms":  1773377292106
+    },
+    {
+        "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
+        "kind":  "prices",
+        "exchange":  "COINEX",
+        "exchange_candidate":  "COINEX",
+        "symbol_candidates":  [
+                                  "KITEUSDT",
+                                  "KITE-USDT",
+                                  "KITE_USDT",
+                                  "KITE/USDT"
+                              ],
+        "symbol_candidate":  "KITE/USDT",
+        "redis_key":  "ex:prices:COINEX:KITE/USDT",
+        "hit":  false,
+        "stale":  true,
+        "age_ms":  null,
+        "payload_fragment":  null,
+        "ts_ms":  1773377292106
+    },
+    {
+        "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
+        "kind":  "orderbook",
+        "exchange":  "ASTERFINANCE",
+        "exchange_candidate":  "ASTERFINANCE",
+        "symbol_candidates":  [
+                                  "KITEUSDT",
+                                  "KITE-USDT",
+                                  "KITE_USDT",
+                                  "KITE/USDT"
+                              ],
+        "symbol_candidate":  "KITEUSDT",
+        "redis_key":  "ex:orderbook:ASTERFINANCE:KITEUSDT",
+        "hit":  true,
+        "stale":  true,
+        "age_ms":  6560,
+        "payload_fragment":  {
+                                 "updated_at_ms":  1773377285546,
+                                 "bid":  null,
+                                 "ask":  null,
+                                 "mark":  null,
+                                 "index":  null,
+                                 "last":  null,
+                                 "top_bid":  {
+                                                 "price":  0.2375,
+                                                 "qty":  9896.0
+                                             },
+                                 "top_ask":  {
+                                                 "price":  0.23758,
+                                                 "qty":  4081.0
+                                             }
+                             },
+        "ts_ms":  1773377292106
+    },
+    {
+        "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
+        "kind":  "orderbook",
+        "exchange":  "COINEX",
+        "exchange_candidate":  "COINEX",
+        "symbol_candidates":  [
+                                  "KITEUSDT",
+                                  "KITE-USDT",
+                                  "KITE_USDT",
+                                  "KITE/USDT"
+                              ],
+        "symbol_candidate":  "KITEUSDT",
+        "redis_key":  "ex:orderbook:COINEX:KITEUSDT",
+        "hit":  false,
+        "stale":  true,
+        "age_ms":  null,
+        "payload_fragment":  null,
+        "ts_ms":  1773377292106
+    },
+    {
+        "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
+        "kind":  "orderbook",
+        "exchange":  "COINEX",
+        "exchange_candidate":  "COINEX",
+        "symbol_candidates":  [
+                                  "KITEUSDT",
+                                  "KITE-USDT",
+                                  "KITE_USDT",
+                                  "KITE/USDT"
+                              ],
+        "symbol_candidate":  "KITE-USDT",
+        "redis_key":  "ex:orderbook:COINEX:KITE-USDT",
+        "hit":  false,
+        "stale":  true,
+        "age_ms":  null,
+        "payload_fragment":  null,
+        "ts_ms":  1773377292106
+    },
+    {
+        "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
+        "kind":  "orderbook",
+        "exchange":  "COINEX",
+        "exchange_candidate":  "COINEX",
+        "symbol_candidates":  [
+                                  "KITEUSDT",
+                                  "KITE-USDT",
+                                  "KITE_USDT",
+                                  "KITE/USDT"
+                              ],
+        "symbol_candidate":  "KITE_USDT",
+        "redis_key":  "ex:orderbook:COINEX:KITE_USDT",
+        "hit":  false,
+        "stale":  true,
+        "age_ms":  null,
+        "payload_fragment":  null,
+        "ts_ms":  1773377292107
+    },
+    {
+        "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
+        "kind":  "orderbook",
+        "exchange":  "COINEX",
+        "exchange_candidate":  "COINEX",
+        "symbol_candidates":  [
+                                  "KITEUSDT",
+                                  "KITE-USDT",
+                                  "KITE_USDT",
+                                  "KITE/USDT"
+                              ],
+        "symbol_candidate":  "KITE/USDT",
+        "redis_key":  "ex:orderbook:COINEX:KITE/USDT",
+        "hit":  false,
+        "stale":  true,
+        "age_ms":  null,
+        "payload_fragment":  null,
+        "ts_ms":  1773377292107
+    }
+]

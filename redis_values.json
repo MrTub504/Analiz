@@ -1,0 +1,282 @@
+[
+    {
+        "key":  "ex:orderbook:ASTERFINANCE:KITEUSDT",
+        "exists":  "",
+        "raw":  "{\"data\": {\"bids\": [{\"price\": 0.2375, \"qty\": 9896.0}, {\"price\": 0.23744, \"qty\": 983.0}, {\"price\": 0.23742, \"qty\": 9896.0}, {\"price\": 0.23737, \"qty\": 8428.0}, {\"price\": 0.23732, \"qty\": 9896.0}, {\"price\": 0.23724, \"qty\": 9896.0}, {\"price\": 0.23718, \"qty\": 8428.0}, {\"price\": 0.23716, \"qty\": 9896.0}, {\"price\": 0.23708, \"qty\": 9896.0}, {\"price\": 0.23707, \"qty\": 6652.0}, {\"price\": 0.23701, \"qty\": 8437.0}, {\"price\": 0.23699, \"qty\": 9707.0}, {\"price\": 0.23687, \"qty\": 9896.0}, {\"price\": 0.23681, \"qty\": 3394.0}, {\"price\": 0.23679, \"qty\": 9896.0}, {\"price\": 0.23677, \"qty\": 2335.0}, {\"price\": 0.23673, \"qty\": 26646.0}, {\"price\": 0.23671, \"qty\": 18338.0}, {\"price\": 0.23655, \"qty\": 8442.0}, {\"price\": 0.23647, \"qty\": 3464.0}], \"asks\": [{\"price\": 0.23758, \"qty\": 4081.0}, {\"price\": 0.23759, \"qty\": 1780.0}, {\"price\": 0.23777, \"qty\": 9896.0}, {\"price\": 0.2378, \"qty\": 7115.0}, {\"price\": 0.23786, \"qty\": 9896.0}, {\"price\": 0.23787, \"qty\": 8421.0}, {\"price\": 0.23794, \"qty\": 9896.0}, {\"price\": 0.23802, \"qty\": 9896.0}, {\"price\": 0.23817, \"qty\": 9896.0}, {\"price\": 0.23818, \"qty\": 2336.0}, {\"price\": 0.23832, \"qty\": 9896.0}, {\"price\": 0.23847, \"qty\": 9896.0}, {\"price\": 0.23878, \"qty\": 2753.0}, {\"price\": 0.23883, \"qty\": 772.0}, {\"price\": 0.23936, \"qty\": 174.0}, {\"price\": 0.23945, \"qty\": 1532.0}, {\"price\": 0.23948, \"qty\": 2751.0}, {\"price\": 0.23988, \"qty\": 1683.0}, {\"price\": 0.24063, \"qty\": 1116.0}, {\"price\": 0.24101, \"qty\": 468.0}], \"top_bid\": 0.2375, \"top_ask\": 0.23758, \"updated_at_ms\": 1773377285546}, \"cache_ts\": 1773377291200, \"updated_at_ms\": 1773377285546}",
+        "json":  {
+                     "data":  {
+                                  "bids":  [
+                                               {
+                                                   "price":  0.2375,
+                                                   "qty":  9896.0
+                                               },
+                                               {
+                                                   "price":  0.23744,
+                                                   "qty":  983.0
+                                               },
+                                               {
+                                                   "price":  0.23742,
+                                                   "qty":  9896.0
+                                               },
+                                               {
+                                                   "price":  0.23737,
+                                                   "qty":  8428.0
+                                               },
+                                               {
+                                                   "price":  0.23732,
+                                                   "qty":  9896.0
+                                               },
+                                               {
+                                                   "price":  0.23724,
+                                                   "qty":  9896.0
+                                               },
+                                               {
+                                                   "price":  0.23718,
+                                                   "qty":  8428.0
+                                               },
+                                               {
+                                                   "price":  0.23716,
+                                                   "qty":  9896.0
+                                               },
+                                               {
+                                                   "price":  0.23708,
+                                                   "qty":  9896.0
+                                               },
+                                               {
+                                                   "price":  0.23707,
+                                                   "qty":  6652.0
+                                               },
+                                               {
+                                                   "price":  0.23701,
+                                                   "qty":  8437.0
+                                               },
+                                               {
+                                                   "price":  0.23699,
+                                                   "qty":  9707.0
+                                               },
+                                               {
+                                                   "price":  0.23687,
+                                                   "qty":  9896.0
+                                               },
+                                               {
+                                                   "price":  0.23681,
+                                                   "qty":  3394.0
+                                               },
+                                               {
+                                                   "price":  0.23679,
+                                                   "qty":  9896.0
+                                               },
+                                               {
+                                                   "price":  0.23677,
+                                                   "qty":  2335.0
+                                               },
+                                               {
+                                                   "price":  0.23673,
+                                                   "qty":  26646.0
+                                               },
+                                               {
+                                                   "price":  0.23671,
+                                                   "qty":  18338.0
+                                               },
+                                               {
+                                                   "price":  0.23655,
+                                                   "qty":  8442.0
+                                               },
+                                               {
+                                                   "price":  0.23647,
+                                                   "qty":  3464.0
+                                               }
+                                           ],
+                                  "asks":  [
+                                               {
+                                                   "price":  0.23758,
+                                                   "qty":  4081.0
+                                               },
+                                               {
+                                                   "price":  0.23759,
+                                                   "qty":  1780.0
+                                               },
+                                               {
+                                                   "price":  0.23777,
+                                                   "qty":  9896.0
+                                               },
+                                               {
+                                                   "price":  0.2378,
+                                                   "qty":  7115.0
+                                               },
+                                               {
+                                                   "price":  0.23786,
+                                                   "qty":  9896.0
+                                               },
+                                               {
+                                                   "price":  0.23787,
+                                                   "qty":  8421.0
+                                               },
+                                               {
+                                                   "price":  0.23794,
+                                                   "qty":  9896.0
+                                               },
+                                               {
+                                                   "price":  0.23802,
+                                                   "qty":  9896.0
+                                               },
+                                               {
+                                                   "price":  0.23817,
+                                                   "qty":  9896.0
+                                               },
+                                               {
+                                                   "price":  0.23818,
+                                                   "qty":  2336.0
+                                               },
+                                               {
+                                                   "price":  0.23832,
+                                                   "qty":  9896.0
+                                               },
+                                               {
+                                                   "price":  0.23847,
+                                                   "qty":  9896.0
+                                               },
+                                               {
+                                                   "price":  0.23878,
+                                                   "qty":  2753.0
+                                               },
+                                               {
+                                                   "price":  0.23883,
+                                                   "qty":  772.0
+                                               },
+                                               {
+                                                   "price":  0.23936,
+                                                   "qty":  174.0
+                                               },
+                                               {
+                                                   "price":  0.23945,
+                                                   "qty":  1532.0
+                                               },
+                                               {
+                                                   "price":  0.23948,
+                                                   "qty":  2751.0
+                                               },
+                                               {
+                                                   "price":  0.23988,
+                                                   "qty":  1683.0
+                                               },
+                                               {
+                                                   "price":  0.24063,
+                                                   "qty":  1116.0
+                                               },
+                                               {
+                                                   "price":  0.24101,
+                                                   "qty":  468.0
+                                               }
+                                           ],
+                                  "top_bid":  0.2375,
+                                  "top_ask":  0.23758,
+                                  "updated_at_ms":  1773377285546
+                              },
+                     "cache_ts":  1773377291200,
+                     "updated_at_ms":  1773377285546
+                 }
+    },
+    {
+        "key":  "ex:prices:ASTERFINANCE:KITEUSDT",
+        "exists":  "",
+        "raw":  "{\"data\": {\"mark\": 0.23748331, \"last\": 0.23748331, \"bid\": 0.2375, \"ask\": 0.23751, \"index\": 0.23974836, \"updated_at_ms\": 1773377290307, \"source\": \"REST\"}, \"cache_ts\": 1773377296440, \"updated_at_ms\": 1773377290307}",
+        "json":  {
+                     "data":  {
+                                  "mark":  0.23748331,
+                                  "last":  0.23748331,
+                                  "bid":  0.2375,
+                                  "ask":  0.23751,
+                                  "index":  0.23974836,
+                                  "updated_at_ms":  1773377290307,
+                                  "source":  "REST"
+                              },
+                     "cache_ts":  1773377296440,
+                     "updated_at_ms":  1773377290307
+                 }
+    },
+    {
+        "key":  "ex:orderbook:ASTERFINANCE:KITE-USDT",
+        "exists":  "",
+        "raw":  null,
+        "json":  null
+    },
+    {
+        "key":  "ex:prices:ASTERFINANCE:KITE-USDT",
+        "exists":  "",
+        "raw":  null,
+        "json":  null
+    },
+    {
+        "key":  "ex:orderbook:ASTERFINANCE:KITE_USDT",
+        "exists":  "",
+        "raw":  null,
+        "json":  null
+    },
+    {
+        "key":  "ex:prices:ASTERFINANCE:KITE_USDT",
+        "exists":  "",
+        "raw":  null,
+        "json":  null
+    },
+    {
+        "key":  "ex:orderbook:ASTERFINANCE:KITE/USDT",
+        "exists":  "",
+        "raw":  null,
+        "json":  null
+    },
+    {
+        "key":  "ex:prices:ASTERFINANCE:KITE/USDT",
+        "exists":  "",
+        "raw":  null,
+        "json":  null
+    },
+    {
+        "key":  "ex:orderbook:COINEX:KITEUSDT",
+        "exists":  "",
+        "raw":  null,
+        "json":  null
+    },
+    {
+        "key":  "ex:prices:COINEX:KITEUSDT",
+        "exists":  "",
+        "raw":  null,
+        "json":  null
+    },
+    {
+        "key":  "ex:orderbook:COINEX:KITE-USDT",
+        "exists":  "",
+        "raw":  null,
+        "json":  null
+    },
+    {
+        "key":  "ex:prices:COINEX:KITE-USDT",
+        "exists":  "",
+        "raw":  null,
+        "json":  null
+    },
+    {
+        "key":  "ex:orderbook:COINEX:KITE_USDT",
+        "exists":  "",
+        "raw":  null,
+        "json":  null
+    },
+    {
+        "key":  "ex:prices:COINEX:KITE_USDT",
+        "exists":  "",
+        "raw":  null,
+        "json":  null
+    },
+    {
+        "key":  "ex:orderbook:COINEX:KITE/USDT",
+        "exists":  "",
+        "raw":  null,
+        "json":  null
+    },
+    {
+        "key":  "ex:prices:COINEX:KITE/USDT",
+        "exists":  "",
+        "raw":  null,
+        "json":  null
+    }
+]

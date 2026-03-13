@@ -1,0 +1,160 @@
+[
+    {
+        "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
+        "buy_symbol_id":  "KITEUSDT",
+        "sell_symbol_id":  "KITEUSDT",
+        "buy_symbol_candidates":  [
+                                      "KITEUSDT",
+                                      "KITE-USDT",
+                                      "KITE_USDT",
+                                      "KITE/USDT"
+                                  ],
+        "sell_symbol_candidates":  [
+                                       "KITEUSDT",
+                                       "KITE-USDT",
+                                       "KITE_USDT",
+                                       "KITE/USDT"
+                                   ],
+        "buy_exchange_candidates":  [
+                                        "ASTERFINANCE"
+                                    ],
+        "sell_exchange_candidates":  [
+                                         "COINEX"
+                                     ],
+        "buy_orderbook_key":  "ex:orderbook:ASTERFINANCE:KITEUSDT",
+        "sell_orderbook_key":  "ex:orderbook:COINEX:KITEUSDT",
+        "buy_orderbook_hit":  true,
+        "sell_orderbook_hit":  false,
+        "buy_orderbook_payload_fragment":  {
+                                               "updated_at_ms":  1773377277197,
+                                               "top_ask":  {
+                                                               "price":  0.23729,
+                                                               "qty":  2981.0
+                                                           },
+                                               "top_bid":  {
+                                                               "price":  0.23724,
+                                                               "qty":  9896.0
+                                                           }
+                                           },
+        "sell_orderbook_payload_fragment":  null
+    },
+    {
+        "pairKey":  "ASTERFINANCE:KITEUSDT|BITMARTFTS:KITEUSDT",
+        "buy_symbol_id":  "KITEUSDT",
+        "sell_symbol_id":  "KITEUSDT",
+        "buy_symbol_candidates":  [
+                                      "KITEUSDT",
+                                      "KITE-USDT",
+                                      "KITE_USDT",
+                                      "KITE/USDT"
+                                  ],
+        "sell_symbol_candidates":  [
+                                       "KITEUSDT",
+                                       "KITE-USDT",
+                                       "KITE_USDT",
+                                       "KITE/USDT"
+                                   ],
+        "buy_exchange_candidates":  [
+                                        "ASTERFINANCE"
+                                    ],
+        "sell_exchange_candidates":  [
+                                         "BITMART",
+                                         "BITMARTFTS"
+                                     ],
+        "buy_orderbook_key":  "ex:orderbook:ASTERFINANCE:KITEUSDT",
+        "sell_orderbook_key":  "ex:orderbook:BITMART:KITEUSDT",
+        "buy_orderbook_hit":  true,
+        "sell_orderbook_hit":  false,
+        "buy_orderbook_payload_fragment":  {
+                                               "updated_at_ms":  1773377277197,
+                                               "top_ask":  {
+                                                               "price":  0.23729,
+                                                               "qty":  2981.0
+                                                           },
+                                               "top_bid":  {
+                                                               "price":  0.23724,
+                                                               "qty":  9896.0
+                                                           }
+                                           },
+        "sell_orderbook_payload_fragment":  null
+    },
+    {
+        "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
+        "buy_symbol_id":  "KITEUSDT",
+        "sell_symbol_id":  "KITEUSDT",
+        "buy_symbol_candidates":  [
+                                      "KITEUSDT",
+                                      "KITE-USDT",
+                                      "KITE_USDT",
+                                      "KITE/USDT"
+                                  ],
+        "sell_symbol_candidates":  [
+                                       "KITEUSDT",
+                                       "KITE-USDT",
+                                       "KITE_USDT",
+                                       "KITE/USDT"
+                                   ],
+        "buy_exchange_candidates":  [
+                                        "ASTERFINANCE"
+                                    ],
+        "sell_exchange_candidates":  [
+                                         "COINEX"
+                                     ],
+        "buy_orderbook_key":  "ex:orderbook:ASTERFINANCE:KITEUSDT",
+        "sell_orderbook_key":  "ex:orderbook:COINEX:KITEUSDT",
+        "buy_orderbook_hit":  true,
+        "sell_orderbook_hit":  false,
+        "buy_orderbook_payload_fragment":  {
+                                               "updated_at_ms":  1773377285546,
+                                               "top_ask":  {
+                                                               "price":  0.23758,
+                                                               "qty":  4081.0
+                                                           },
+                                               "top_bid":  {
+                                                               "price":  0.2375,
+                                                               "qty":  9896.0
+                                                           }
+                                           },
+        "sell_orderbook_payload_fragment":  null
+    },
+    {
+        "pairKey":  "ASTERFINANCE:KITEUSDT|BITMARTFTS:KITEUSDT",
+        "buy_symbol_id":  "KITEUSDT",
+        "sell_symbol_id":  "KITEUSDT",
+        "buy_symbol_candidates":  [
+                                      "KITEUSDT",
+                                      "KITE-USDT",
+                                      "KITE_USDT",
+                                      "KITE/USDT"
+                                  ],
+        "sell_symbol_candidates":  [
+                                       "KITEUSDT",
+                                       "KITE-USDT",
+                                       "KITE_USDT",
+                                       "KITE/USDT"
+                                   ],
+        "buy_exchange_candidates":  [
+                                        "ASTERFINANCE"
+                                    ],
+        "sell_exchange_candidates":  [
+                                         "BITMART",
+                                         "BITMARTFTS"
+                                     ],
+        "buy_orderbook_key":  "ex:orderbook:ASTERFINANCE:KITEUSDT",
+        "sell_orderbook_key":  "ex:orderbook:BITMART:KITEUSDT",
+        "buy_orderbook_hit":  true,
+        "sell_orderbook_hit":  false,
+        "buy_orderbook_payload_fragment":  {
+                                               "updated_at_ms":  1773377285546,
+                                               "top_ask":  {
+                                                               "price":  0.23758,
+                                                               "qty":  4081.0
+                                                           },
+                                               "top_bid":  {
+                                                               "price":  0.2375,
+                                                               "qty":  9896.0
+                                                           }
+                                           },
+        "sell_orderbook_payload_fragment":  null
+    }
+]
