@@ -53,52 +53,52 @@
                                                                  "funding":  [
                                                                                  "AVNTUSDT",
                                                                                  "ENSOUSDT",
-                                                                                 "GRTUSDT",
                                                                                  "JSTUSDT",
                                                                                  "KITEUSDT",
                                                                                  "PIPPINUSDT",
                                                                                  "RATSUSDT",
                                                                                  "RIVERUSDT",
-                                                                                 "TURBOUSDT",
+                                                                                 "USELESSUSDT",
+                                                                                 "XPTUSDT",
                                                                                  "ZILUSDT"
                                                                              ],
                                                                  "prices":  [
                                                                                 "AVNTUSDT",
                                                                                 "ENSOUSDT",
-                                                                                "GRTUSDT",
                                                                                 "JSTUSDT",
                                                                                 "KITEUSDT",
                                                                                 "PIPPINUSDT",
                                                                                 "RATSUSDT",
                                                                                 "RIVERUSDT",
-                                                                                "TURBOUSDT",
+                                                                                "USELESSUSDT",
+                                                                                "XPTUSDT",
                                                                                 "ZILUSDT"
                                                                             ],
                                                                  "orderbook":  [
                                                                                    "AVNTUSDT",
                                                                                    "ENSOUSDT",
-                                                                                   "GRTUSDT",
                                                                                    "JSTUSDT",
                                                                                    "KITEUSDT",
                                                                                    "PIPPINUSDT",
                                                                                    "RATSUSDT",
                                                                                    "RIVERUSDT",
-                                                                                   "TURBOUSDT",
+                                                                                   "USELESSUSDT",
+                                                                                   "XPTUSDT",
                                                                                    "ZILUSDT"
                                                                                ]
                                                              },
                                  "last_required_update":  {
                                                               "funding":  {
                                                                               "symbols_count":  10,
-                                                                              "ts_ms":  1773377286651
+                                                                              "ts_ms":  1773380221916
                                                                           },
                                                               "prices":  {
                                                                              "symbols_count":  10,
-                                                                             "ts_ms":  1773377286653
+                                                                             "ts_ms":  1773380221918
                                                                          },
                                                               "orderbook":  {
                                                                                 "symbols_count":  10,
-                                                                                "ts_ms":  1773377286655
+                                                                                "ts_ms":  1773380221920
                                                                             }
                                                           }
                              },
@@ -156,52 +156,52 @@
                                                         "funding":  [
                                                                         "AVNTUSDT",
                                                                         "ENSOUSDT",
-                                                                        "GRTUSDT",
                                                                         "JSTUSDT",
                                                                         "KITEUSDT",
                                                                         "PIPPINUSDT",
                                                                         "RATSUSDT",
                                                                         "RIVERUSDT",
-                                                                        "TURBOUSDT",
+                                                                        "USELESSUSDT",
+                                                                        "XPTUSDT",
                                                                         "ZILUSDT"
                                                                     ],
                                                         "prices":  [
                                                                        "AVNTUSDT",
                                                                        "ENSOUSDT",
-                                                                       "GRTUSDT",
                                                                        "JSTUSDT",
                                                                        "KITEUSDT",
                                                                        "PIPPINUSDT",
                                                                        "RATSUSDT",
                                                                        "RIVERUSDT",
-                                                                       "TURBOUSDT",
+                                                                       "USELESSUSDT",
+                                                                       "XPTUSDT",
                                                                        "ZILUSDT"
                                                                    ],
                                                         "orderbook":  [
                                                                           "AVNTUSDT",
                                                                           "ENSOUSDT",
-                                                                          "GRTUSDT",
                                                                           "JSTUSDT",
                                                                           "KITEUSDT",
                                                                           "PIPPINUSDT",
                                                                           "RATSUSDT",
                                                                           "RIVERUSDT",
-                                                                          "TURBOUSDT",
+                                                                          "USELESSUSDT",
+                                                                          "XPTUSDT",
                                                                           "ZILUSDT"
                                                                       ]
                                                     },
                         "last_required_update":  {
                                                      "funding":  {
                                                                      "symbols_count":  10,
-                                                                     "ts_ms":  1773377286651
+                                                                     "ts_ms":  1773380221916
                                                                  },
                                                      "prices":  {
                                                                     "symbols_count":  10,
-                                                                    "ts_ms":  1773377286653
+                                                                    "ts_ms":  1773380221918
                                                                 },
                                                      "orderbook":  {
                                                                        "symbols_count":  10,
-                                                                       "ts_ms":  1773377286655
+                                                                       "ts_ms":  1773380221920
                                                                    }
                                                  }
                     },

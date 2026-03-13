@@ -8,9 +8,9 @@
 
 ## Final row fields
 
-- best_ask_buy: `0.2376`
+- best_ask_buy: `0.2367`
 - best_bid_sell: ``
-- kursovoy_left_price: `0.2376`
+- kursovoy_left_price: `0.2367`
 - kursovoy_right_price: ``
 - kursovoy_spread_pct: ``
 - kursovoy_has_data: `False`
@@ -36,3 +36,4 @@
 - redis_values.json
 - payload_fragments.json
 - comparison.json
+- writer_path_evidence.json

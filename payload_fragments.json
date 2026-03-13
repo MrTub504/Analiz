@@ -28,13 +28,13 @@
                                       "buy_orderbook_hit":  true,
                                       "sell_orderbook_hit":  false,
                                       "buy_orderbook_payload_fragment":  {
-                                                                             "updated_at_ms":  1773377277197,
+                                                                             "updated_at_ms":  1773380216301,
                                                                              "top_ask":  {
-                                                                                             "price":  0.23729,
-                                                                                             "qty":  2981.0
+                                                                                             "price":  0.23668,
+                                                                                             "qty":  3032.0
                                                                                          },
                                                                              "top_bid":  {
-                                                                                             "price":  0.23724,
+                                                                                             "price":  0.23662,
                                                                                              "qty":  9896.0
                                                                                          }
                                                                          },
@@ -68,13 +68,13 @@
                                       "buy_orderbook_hit":  true,
                                       "sell_orderbook_hit":  false,
                                       "buy_orderbook_payload_fragment":  {
-                                                                             "updated_at_ms":  1773377277197,
+                                                                             "updated_at_ms":  1773380216301,
                                                                              "top_ask":  {
-                                                                                             "price":  0.23729,
-                                                                                             "qty":  2981.0
+                                                                                             "price":  0.23668,
+                                                                                             "qty":  3032.0
                                                                                          },
                                                                              "top_bid":  {
-                                                                                             "price":  0.23724,
+                                                                                             "price":  0.23662,
                                                                                              "qty":  9896.0
                                                                                          }
                                                                          },
@@ -107,13 +107,13 @@
                                       "buy_orderbook_hit":  true,
                                       "sell_orderbook_hit":  false,
                                       "buy_orderbook_payload_fragment":  {
-                                                                             "updated_at_ms":  1773377285546,
+                                                                             "updated_at_ms":  1773380216301,
                                                                              "top_ask":  {
-                                                                                             "price":  0.23758,
-                                                                                             "qty":  4081.0
+                                                                                             "price":  0.23668,
+                                                                                             "qty":  3032.0
                                                                                          },
                                                                              "top_bid":  {
-                                                                                             "price":  0.2375,
+                                                                                             "price":  0.23662,
                                                                                              "qty":  9896.0
                                                                                          }
                                                                          },
@@ -147,13 +147,13 @@
                                       "buy_orderbook_hit":  true,
                                       "sell_orderbook_hit":  false,
                                       "buy_orderbook_payload_fragment":  {
-                                                                             "updated_at_ms":  1773377285546,
+                                                                             "updated_at_ms":  1773380216301,
                                                                              "top_ask":  {
-                                                                                             "price":  0.23758,
-                                                                                             "qty":  4081.0
+                                                                                             "price":  0.23668,
+                                                                                             "qty":  3032.0
                                                                                          },
                                                                              "top_bid":  {
-                                                                                             "price":  0.2375,
+                                                                                             "price":  0.23662,
                                                                                              "qty":  9896.0
                                                                                          }
                                                                          },
@@ -178,7 +178,7 @@
                                       "hit":  true,
                                       "hit_key":  "ex:funding:ASTERFINANCE:KITEUSDT",
                                       "hit_source":  "realtime_primary",
-                                      "ts_ms":  1773377291453
+                                      "ts_ms":  1773380226809
                                   },
                                   {
                                       "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
@@ -197,7 +197,7 @@
                                       "hit":  true,
                                       "hit_key":  "ex:funding:COINEX:KITEUSDT",
                                       "hit_source":  "realtime_primary",
-                                      "ts_ms":  1773377291453
+                                      "ts_ms":  1773380226809
                                   },
                                   {
                                       "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
@@ -216,7 +216,7 @@
                                       "hit":  true,
                                       "hit_key":  "ex:funding:ASTERFINANCE:KITEUSDT",
                                       "hit_source":  "realtime_primary",
-                                      "ts_ms":  1773377292104
+                                      "ts_ms":  1773380227424
                                   },
                                   {
                                       "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
@@ -235,7 +235,7 @@
                                       "hit":  true,
                                       "hit_key":  "ex:funding:COINEX:KITEUSDT",
                                       "hit_source":  "realtime_primary",
-                                      "ts_ms":  1773377292105
+                                      "ts_ms":  1773380227424
                                   }
                               ],
     "read_market_payload_attempts":  [
@@ -254,16 +254,16 @@
                                              "redis_key":  "ex:prices:ASTERFINANCE:KITEUSDT",
                                              "hit":  true,
                                              "stale":  true,
-                                             "age_ms":  10448,
+                                             "age_ms":  14834,
                                              "payload_fragment":  {
-                                                                      "updated_at_ms":  1773377281657,
-                                                                      "bid":  0.2375,
-                                                                      "ask":  0.23761,
-                                                                      "mark":  0.23732025,
-                                                                      "index":  0.23958697,
-                                                                      "last":  0.23732025
+                                                                      "updated_at_ms":  1773380212590,
+                                                                      "bid":  0.23662,
+                                                                      "ask":  0.23664,
+                                                                      "mark":  0.23666368,
+                                                                      "index":  0.2393136,
+                                                                      "last":  0.23666368
                                                                   },
-                                             "ts_ms":  1773377292105
+                                             "ts_ms":  1773380227424
                                          },
                                          {
                                              "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
@@ -282,7 +282,7 @@
                                              "stale":  true,
                                              "age_ms":  null,
                                              "payload_fragment":  null,
-                                             "ts_ms":  1773377292105
+                                             "ts_ms":  1773380227424
                                          },
                                          {
                                              "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
@@ -301,7 +301,7 @@
                                              "stale":  true,
                                              "age_ms":  null,
                                              "payload_fragment":  null,
-                                             "ts_ms":  1773377292105
+                                             "ts_ms":  1773380227424
                                          },
                                          {
                                              "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
@@ -320,7 +320,7 @@
                                              "stale":  true,
                                              "age_ms":  null,
                                              "payload_fragment":  null,
-                                             "ts_ms":  1773377292106
+                                             "ts_ms":  1773380227425
                                          },
                                          {
                                              "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
@@ -339,7 +339,7 @@
                                              "stale":  true,
                                              "age_ms":  null,
                                              "payload_fragment":  null,
-                                             "ts_ms":  1773377292106
+                                             "ts_ms":  1773380227425
                                          },
                                          {
                                              "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
@@ -356,24 +356,24 @@
                                              "redis_key":  "ex:orderbook:ASTERFINANCE:KITEUSDT",
                                              "hit":  true,
                                              "stale":  true,
-                                             "age_ms":  6560,
+                                             "age_ms":  11124,
                                              "payload_fragment":  {
-                                                                      "updated_at_ms":  1773377285546,
+                                                                      "updated_at_ms":  1773380216301,
                                                                       "bid":  null,
                                                                       "ask":  null,
                                                                       "mark":  null,
                                                                       "index":  null,
                                                                       "last":  null,
                                                                       "top_bid":  {
-                                                                                      "price":  0.2375,
+                                                                                      "price":  0.23662,
                                                                                       "qty":  9896.0
                                                                                   },
                                                                       "top_ask":  {
-                                                                                      "price":  0.23758,
-                                                                                      "qty":  4081.0
+                                                                                      "price":  0.23668,
+                                                                                      "qty":  3032.0
                                                                                   }
                                                                   },
-                                             "ts_ms":  1773377292106
+                                             "ts_ms":  1773380227425
                                          },
                                          {
                                              "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
@@ -392,7 +392,7 @@
                                              "stale":  true,
                                              "age_ms":  null,
                                              "payload_fragment":  null,
-                                             "ts_ms":  1773377292106
+                                             "ts_ms":  1773380227425
                                          },
                                          {
                                              "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
@@ -411,7 +411,7 @@
                                              "stale":  true,
                                              "age_ms":  null,
                                              "payload_fragment":  null,
-                                             "ts_ms":  1773377292106
+                                             "ts_ms":  1773380227425
                                          },
                                          {
                                              "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
@@ -430,7 +430,7 @@
                                              "stale":  true,
                                              "age_ms":  null,
                                              "payload_fragment":  null,
-                                             "ts_ms":  1773377292107
+                                             "ts_ms":  1773380227426
                                          },
                                          {
                                              "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
@@ -449,7 +449,7 @@
                                              "stale":  true,
                                              "age_ms":  null,
                                              "payload_fragment":  null,
-                                             "ts_ms":  1773377292107
+                                             "ts_ms":  1773380227426
                                          }
                                      ],
     "reader_store_diagnostics":  {
@@ -470,9 +470,9 @@
                                     {
                                         "key":  "ex:orderbook:ASTERFINANCE:KITEUSDT",
                                         "exists":  "",
-                                        "updated_at_ms":  1773377285546,
-                                        "top_bid":  0.2375,
-                                        "top_ask":  0.23758,
+                                        "updated_at_ms":  1773380224781,
+                                        "top_bid":  0.23662,
+                                        "top_ask":  0.23668,
                                         "bid":  null,
                                         "ask":  null,
                                         "mark":  null,
@@ -482,14 +482,14 @@
                                     {
                                         "key":  "ex:prices:ASTERFINANCE:KITEUSDT",
                                         "exists":  "",
-                                        "updated_at_ms":  1773377290307,
+                                        "updated_at_ms":  1773380221971,
                                         "top_bid":  null,
                                         "top_ask":  null,
-                                        "bid":  0.2375,
-                                        "ask":  0.23751,
-                                        "mark":  0.23748331,
-                                        "index":  0.23974836,
-                                        "last":  0.23748331
+                                        "bid":  0.23662,
+                                        "ask":  0.23664,
+                                        "mark":  0.23666988,
+                                        "index":  0.23932762,
+                                        "last":  0.23666988
                                     },
                                     {
                                         "key":  "ex:orderbook:ASTERFINANCE:KITE-USDT",

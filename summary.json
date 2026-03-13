@@ -1,12 +1,12 @@
 {
-    "report_dir":  "C:\\Users\\mukht\\Project prom\\Cripto\\artifacts\\kursovoy_forensic_20260313_074709",
+    "report_dir":  "C:\\Users\\mukht\\Project prom\\Cripto\\artifacts\\kursovoy_forensic_20260313_083605",
     "selected_pair":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
     "selected_exchanges":  [
                                "ASTERFINANCE",
                                "COINEX"
                            ],
     "second_exchange":  "COINEX",
-    "files_count":  35,
+    "files_count":  37,
     "files":  [
                   "comparison.json",
                   "comparison.md",
@@ -42,6 +42,8 @@
                   "trace_reader_store_diagnostics.json",
                   "trace_stages.json",
                   "trace_writer_events_after_aggregation.json",
-                  "trace_writer_events_after_push.json"
+                  "trace_writer_events_after_push.json",
+                  "writer_path_evidence.json",
+                  "writer_path_evidence.md"
               ]
 }
