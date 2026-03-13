@@ -7,17 +7,17 @@
 
 ## ASTERFINANCE
 - required updates: 4
-- emits: 636
-- redis write attempts: 636
+- emits: 13
+- redis write attempts: 13
 - redis payload keys(non-null): 2
 
 ## COINEX
 - required updates: 4
 - emits: 0
 - redis write attempts: 0
-- redis payload keys(non-null): 0
+- redis payload keys(non-null): 1
 
 ## Reader vs Writer keys
 - reader expected keys: 2
-- writer attempt keys: 30
+- writer attempt keys: 43
 - reader minus writer: 1

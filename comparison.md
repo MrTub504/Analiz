@@ -8,9 +8,9 @@
 
 ## Final row fields
 
-- best_ask_buy: `0.2367`
+- best_ask_buy: `0.2457`
 - best_bid_sell: ``
-- kursovoy_left_price: `0.2367`
+- kursovoy_left_price: `0.2457`
 - kursovoy_right_price: ``
 - kursovoy_spread_pct: ``
 - kursovoy_has_data: `False`

@@ -1,9 +1,9 @@
-[2026-03-13 08:36:05] [INFO] Report directory: artifacts\kursovoy_forensic_20260313_083605
-[2026-03-13 08:36:05] [INFO] Checking docker compose availability
-[2026-03-13 08:36:06] [INFO] Checking running services
-[2026-03-13 08:36:08] [INFO] docker compose ps command: docker compose ps --services --status running
-[2026-03-13 08:36:08] [INFO] docker compose ps exit code: 0
-[2026-03-13 08:36:08] [INFO] docker compose ps stdout preview:
+[2026-03-13 15:10:40] [INFO] Report directory: artifacts\kursovoy_forensic_20260313_151040
+[2026-03-13 15:10:40] [INFO] Checking docker compose availability
+[2026-03-13 15:10:41] [INFO] Checking running services
+[2026-03-13 15:10:42] [INFO] docker compose ps command: docker compose ps --services --status running
+[2026-03-13 15:10:42] [INFO] docker compose ps exit code: 0
+[2026-03-13 15:10:42] [INFO] docker compose ps stdout preview:
 backend
 celery_beat
 celery_worker
@@ -11,18 +11,18 @@ nginx
 postgres
 redis
 
-[2026-03-13 08:36:08] [INFO] docker compose ps stderr preview:
+[2026-03-13 15:10:42] [INFO] docker compose ps stderr preview:
 
-[2026-03-13 08:36:08] [INFO] Parsed running services: backend, celery_beat, celery_worker, nginx, postgres, redis
-[2026-03-13 08:36:08] [INFO] Requesting auth token
-[2026-03-13 08:36:09] [INFO] Fetching /api/scanner/results
-[2026-03-13 08:37:04] [INFO] Selecting comparison row
-[2026-03-13 08:37:04] [INFO] Fetching trace for pairKey=ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT
-[2026-03-13 08:37:09] [INFO] Copying trace file from backend container
-[2026-03-13 08:37:11] [INFO] Probing redis keys
-[2026-03-13 08:37:44] [INFO] Building payload fragments
-[2026-03-13 08:37:44] [INFO] Building side-by-side comparison
-[2026-03-13 08:37:44] [INFO] Building writer-path evidence
-[2026-03-13 08:37:44] [INFO] Done. Report dir: C:\Users\mukht\Project prom\Cripto\artifacts\kursovoy_forensic_20260313_083605
-[2026-03-13 08:37:44] [INFO] Selected pair: ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT
-[2026-03-13 08:37:44] [INFO] Generated files: 37
+[2026-03-13 15:10:42] [INFO] Parsed running services: backend, celery_beat, celery_worker, nginx, postgres, redis
+[2026-03-13 15:10:42] [INFO] Requesting auth token
+[2026-03-13 15:10:44] [INFO] Fetching /api/scanner/results
+[2026-03-13 15:11:45] [INFO] Selecting comparison row
+[2026-03-13 15:11:46] [INFO] Fetching trace for pairKey=ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT
+[2026-03-13 15:11:52] [INFO] Copying trace file from backend container
+[2026-03-13 15:11:54] [INFO] Probing redis keys
+[2026-03-13 15:12:27] [INFO] Building payload fragments
+[2026-03-13 15:12:27] [INFO] Building side-by-side comparison
+[2026-03-13 15:12:27] [INFO] Building writer-path evidence
+[2026-03-13 15:12:27] [INFO] Done. Report dir: C:\Users\mukht\Project prom\Cripto\artifacts\kursovoy_forensic_20260313_151040
+[2026-03-13 15:12:27] [INFO] Selected pair: ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT
+[2026-03-13 15:12:27] [INFO] Generated files: 37

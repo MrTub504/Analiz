@@ -14,16 +14,16 @@
         "redis_key":  "ex:prices:ASTERFINANCE:KITEUSDT",
         "hit":  true,
         "stale":  true,
-        "age_ms":  14834,
+        "age_ms":  5494,
         "payload_fragment":  {
-                                 "updated_at_ms":  1773380212590,
-                                 "bid":  0.23662,
-                                 "ask":  0.23664,
-                                 "mark":  0.23666368,
-                                 "index":  0.2393136,
-                                 "last":  0.23666368
+                                 "updated_at_ms":  1773403905005,
+                                 "bid":  0.24567,
+                                 "ask":  0.24568,
+                                 "mark":  0.24604901,
+                                 "index":  0.24807253,
+                                 "last":  0.24604901
                              },
-        "ts_ms":  1773380227424
+        "ts_ms":  1773403910499
     },
     {
         "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
@@ -42,7 +42,7 @@
         "stale":  true,
         "age_ms":  null,
         "payload_fragment":  null,
-        "ts_ms":  1773380227424
+        "ts_ms":  1773403910499
     },
     {
         "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
@@ -61,7 +61,7 @@
         "stale":  true,
         "age_ms":  null,
         "payload_fragment":  null,
-        "ts_ms":  1773380227424
+        "ts_ms":  1773403910500
     },
     {
         "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
@@ -80,7 +80,7 @@
         "stale":  true,
         "age_ms":  null,
         "payload_fragment":  null,
-        "ts_ms":  1773380227425
+        "ts_ms":  1773403910500
     },
     {
         "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
@@ -99,7 +99,7 @@
         "stale":  true,
         "age_ms":  null,
         "payload_fragment":  null,
-        "ts_ms":  1773380227425
+        "ts_ms":  1773403910500
     },
     {
         "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
@@ -115,25 +115,25 @@
         "symbol_candidate":  "KITEUSDT",
         "redis_key":  "ex:orderbook:ASTERFINANCE:KITEUSDT",
         "hit":  true,
-        "stale":  true,
-        "age_ms":  11124,
+        "stale":  false,
+        "age_ms":  1288,
         "payload_fragment":  {
-                                 "updated_at_ms":  1773380216301,
+                                 "updated_at_ms":  1773403909212,
                                  "bid":  null,
                                  "ask":  null,
                                  "mark":  null,
                                  "index":  null,
                                  "last":  null,
                                  "top_bid":  {
-                                                 "price":  0.23662,
-                                                 "qty":  9896.0
+                                                 "price":  0.24565,
+                                                 "qty":  9495.0
                                              },
                                  "top_ask":  {
-                                                 "price":  0.23668,
-                                                 "qty":  3032.0
+                                                 "price":  0.24568,
+                                                 "qty":  637.0
                                              }
                              },
-        "ts_ms":  1773380227425
+        "ts_ms":  1773403910500
     },
     {
         "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
@@ -152,7 +152,7 @@
         "stale":  true,
         "age_ms":  null,
         "payload_fragment":  null,
-        "ts_ms":  1773380227425
+        "ts_ms":  1773403910500
     },
     {
         "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
@@ -171,7 +171,7 @@
         "stale":  true,
         "age_ms":  null,
         "payload_fragment":  null,
-        "ts_ms":  1773380227425
+        "ts_ms":  1773403910501
     },
     {
         "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
@@ -190,7 +190,7 @@
         "stale":  true,
         "age_ms":  null,
         "payload_fragment":  null,
-        "ts_ms":  1773380227426
+        "ts_ms":  1773403910501
     },
     {
         "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
@@ -209,6 +209,6 @@
         "stale":  true,
         "age_ms":  null,
         "payload_fragment":  null,
-        "ts_ms":  1773380227426
+        "ts_ms":  1773403910501
     }
 ]

@@ -1,11 +1,11 @@
 {
     "request_resolved_hub":  {
                                  "present":  true,
-                                 "hub_id":  138516776988224,
+                                 "hub_id":  135585567747600,
                                  "hub_type":  "ExchangeStreamHub",
                                  "hub_module":  "app.core.realtime.hub",
                                  "hub_running":  true,
-                                 "hub_started_at":  1773374257386,
+                                 "hub_started_at":  1773403320875,
                                  "hub_plugins_count":  4,
                                  "hub_plugin_ids":  [
                                                         "asterfinance",
@@ -51,64 +51,64 @@
                                                                      ],
                                  "required_registry_state":  {
                                                                  "funding":  [
-                                                                                 "AVNTUSDT",
+                                                                                 "2ZUSDT",
                                                                                  "ENSOUSDT",
+                                                                                 "FOLKSUSDT",
                                                                                  "JSTUSDT",
                                                                                  "KITEUSDT",
+                                                                                 "MOODENGUSDT",
                                                                                  "PIPPINUSDT",
-                                                                                 "RATSUSDT",
+                                                                                 "PIXELUSDT",
                                                                                  "RIVERUSDT",
-                                                                                 "USELESSUSDT",
-                                                                                 "XPTUSDT",
-                                                                                 "ZILUSDT"
+                                                                                 "TRUMPUSDT"
                                                                              ],
                                                                  "prices":  [
-                                                                                "AVNTUSDT",
+                                                                                "2ZUSDT",
                                                                                 "ENSOUSDT",
+                                                                                "FOLKSUSDT",
                                                                                 "JSTUSDT",
                                                                                 "KITEUSDT",
+                                                                                "MOODENGUSDT",
                                                                                 "PIPPINUSDT",
-                                                                                "RATSUSDT",
+                                                                                "PIXELUSDT",
                                                                                 "RIVERUSDT",
-                                                                                "USELESSUSDT",
-                                                                                "XPTUSDT",
-                                                                                "ZILUSDT"
+                                                                                "TRUMPUSDT"
                                                                             ],
                                                                  "orderbook":  [
-                                                                                   "AVNTUSDT",
+                                                                                   "2ZUSDT",
                                                                                    "ENSOUSDT",
+                                                                                   "FOLKSUSDT",
                                                                                    "JSTUSDT",
                                                                                    "KITEUSDT",
+                                                                                   "MOODENGUSDT",
                                                                                    "PIPPINUSDT",
-                                                                                   "RATSUSDT",
+                                                                                   "PIXELUSDT",
                                                                                    "RIVERUSDT",
-                                                                                   "USELESSUSDT",
-                                                                                   "XPTUSDT",
-                                                                                   "ZILUSDT"
+                                                                                   "TRUMPUSDT"
                                                                                ]
                                                              },
                                  "last_required_update":  {
                                                               "funding":  {
                                                                               "symbols_count":  10,
-                                                                              "ts_ms":  1773380221916
+                                                                              "ts_ms":  1773403903328
                                                                           },
                                                               "prices":  {
                                                                              "symbols_count":  10,
-                                                                             "ts_ms":  1773380221918
+                                                                             "ts_ms":  1773403903343
                                                                          },
                                                               "orderbook":  {
                                                                                 "symbols_count":  10,
-                                                                                "ts_ms":  1773380221920
+                                                                                "ts_ms":  1773403903358
                                                                             }
                                                           }
                              },
     "startup_hub":  {
                         "present":  true,
-                        "hub_id":  138516776988224,
+                        "hub_id":  135585567747600,
                         "hub_type":  "ExchangeStreamHub",
                         "hub_module":  "app.core.realtime.hub",
                         "hub_running":  true,
-                        "hub_started_at":  1773374257386,
+                        "hub_started_at":  1773403320875,
                         "hub_plugins_count":  4,
                         "hub_plugin_ids":  [
                                                "asterfinance",
@@ -154,54 +154,54 @@
                                                             ],
                         "required_registry_state":  {
                                                         "funding":  [
-                                                                        "AVNTUSDT",
+                                                                        "2ZUSDT",
                                                                         "ENSOUSDT",
+                                                                        "FOLKSUSDT",
                                                                         "JSTUSDT",
                                                                         "KITEUSDT",
+                                                                        "MOODENGUSDT",
                                                                         "PIPPINUSDT",
-                                                                        "RATSUSDT",
+                                                                        "PIXELUSDT",
                                                                         "RIVERUSDT",
-                                                                        "USELESSUSDT",
-                                                                        "XPTUSDT",
-                                                                        "ZILUSDT"
+                                                                        "TRUMPUSDT"
                                                                     ],
                                                         "prices":  [
-                                                                       "AVNTUSDT",
+                                                                       "2ZUSDT",
                                                                        "ENSOUSDT",
+                                                                       "FOLKSUSDT",
                                                                        "JSTUSDT",
                                                                        "KITEUSDT",
+                                                                       "MOODENGUSDT",
                                                                        "PIPPINUSDT",
-                                                                       "RATSUSDT",
+                                                                       "PIXELUSDT",
                                                                        "RIVERUSDT",
-                                                                       "USELESSUSDT",
-                                                                       "XPTUSDT",
-                                                                       "ZILUSDT"
+                                                                       "TRUMPUSDT"
                                                                    ],
                                                         "orderbook":  [
-                                                                          "AVNTUSDT",
+                                                                          "2ZUSDT",
                                                                           "ENSOUSDT",
+                                                                          "FOLKSUSDT",
                                                                           "JSTUSDT",
                                                                           "KITEUSDT",
+                                                                          "MOODENGUSDT",
                                                                           "PIPPINUSDT",
-                                                                          "RATSUSDT",
+                                                                          "PIXELUSDT",
                                                                           "RIVERUSDT",
-                                                                          "USELESSUSDT",
-                                                                          "XPTUSDT",
-                                                                          "ZILUSDT"
+                                                                          "TRUMPUSDT"
                                                                       ]
                                                     },
                         "last_required_update":  {
                                                      "funding":  {
                                                                      "symbols_count":  10,
-                                                                     "ts_ms":  1773380221916
+                                                                     "ts_ms":  1773403903328
                                                                  },
                                                      "prices":  {
                                                                     "symbols_count":  10,
-                                                                    "ts_ms":  1773380221918
+                                                                    "ts_ms":  1773403903343
                                                                 },
                                                      "orderbook":  {
                                                                        "symbols_count":  10,
-                                                                       "ts_ms":  1773380221920
+                                                                       "ts_ms":  1773403903358
                                                                    }
                                                  }
                     },

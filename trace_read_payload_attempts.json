@@ -16,7 +16,7 @@
         "hit":  true,
         "hit_key":  "ex:funding:ASTERFINANCE:KITEUSDT",
         "hit_source":  "realtime_primary",
-        "ts_ms":  1773380226809
+        "ts_ms":  1773403909872
     },
     {
         "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
@@ -35,7 +35,7 @@
         "hit":  true,
         "hit_key":  "ex:funding:COINEX:KITEUSDT",
         "hit_source":  "realtime_primary",
-        "ts_ms":  1773380226809
+        "ts_ms":  1773403909892
     },
     {
         "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
@@ -54,7 +54,7 @@
         "hit":  true,
         "hit_key":  "ex:funding:ASTERFINANCE:KITEUSDT",
         "hit_source":  "realtime_primary",
-        "ts_ms":  1773380227424
+        "ts_ms":  1773403910499
     },
     {
         "pairKey":  "ASTERFINANCE:KITEUSDT|COINEX:KITEUSDT",
@@ -73,6 +73,6 @@
         "hit":  true,
         "hit_key":  "ex:funding:COINEX:KITEUSDT",
         "hit_source":  "realtime_primary",
-        "ts_ms":  1773380227424
+        "ts_ms":  1773403910499
     }
 ]
